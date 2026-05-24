@@ -1,0 +1,126 @@
+
+Cluster   0 |   10 stars | Rep ID: 140305001301374
+  SIMBAD -> UCAC4 153-004511 | Type: PM*
+
+Cluster   1 |   78 stars | Rep ID: 140308003101383
+  SIMBAD -> No match found
+
+Cluster   2 |  591 stars | Rep ID: 140111001601220
+  SIMBAD -> Cl* NGC  104    LEE    3627 | Type: *
+
+Cluster   3 |  370 stars | Rep ID: 140212001501103
+  SIMBAD -> 2MASS J05422395-2038024 | Type: EB*
+
+Cluster   4 |   10 stars | Rep ID: 140309004101003
+  SIMBAD -> UCAC4 485-056671 | Type: PM*
+
+Cluster   5 |    4 stars | Rep ID: 140111002601003
+  SIMBAD -> Cl* NGC 2682   SAND    1472 | Type: *
+
+Cluster   6 |    4 stars | Rep ID: 140117001101296
+  SIMBAD -> UCAC4 320-006160 | Type: *
+
+Cluster   7 |   55 stars | Rep ID: 140209003701284
+  SIMBAD -> UCAC4 257-051988 | Type: *
+
+Cluster   8 |    4 stars | Rep ID: 140209003701313
+  SIMBAD -> UCAC4 260-054899 | Type: *
+
+Cluster   9 |   13 stars | Rep ID: 140312001701314
+  SIMBAD -> UCAC4 286-013758 | Type: *
+
+Cluster  10 |    3 stars | Rep ID: 140305001801364
+  SIMBAD -> UCAC4 154-009511 | Type: PM*
+
+Cluster  11 |    3 stars | Rep ID: 140304001501301
+  SIMBAD -> UCAC4 157-009370 | Type: *
+
+Cluster  12 |   16 stars | Rep ID: 140305001801292
+  SIMBAD -> UCAC4 158-009927 | Type: Pe*
+
+Cluster  13 |    3 stars | Rep ID: 140115003101379
+  SIMBAD -> UCAC4 145-009899 | Type: PM*
+
+Cluster  14 |    5 stars | Rep ID: 140115003101383
+  SIMBAD -> UCAC4 144-009454 | Type: Pe*
+
+Cluster  15 |    3 stars | Rep ID: 140304001801343
+  SIMBAD -> UCAC4 214-076838 | Type: *
+
+Cluster  16 |    5 stars | Rep ID: 140304001501360
+  SIMBAD -> No match found
+
+Cluster  17 |   39 stars | Rep ID: 140309004701227
+  SIMBAD -> UCAC4 274-078336 | Type: *
+
+Cluster  18 |    3 stars | Rep ID: 140115003901386
+  SIMBAD -> UCAC4 250-006602 | Type: RG*
+
+Cluster  19 |    3 stars | Rep ID: 140115003101304
+  SIMBAD -> UCAC4 148-010091 | Type: *
+
+Cluster  20 |    6 stars | Rep ID: 140115003101024
+  SIMBAD -> UCAC4 142-009832 | Type: *
+
+Cluster  21 |    4 stars | Rep ID: 140310002701352
+  SIMBAD -> UCAC4 236-016548 | Type: *
+
+Cluster  22 |   24 stars | Rep ID: 140210001701127
+  SIMBAD -> UCAC2  23543106 | Type: *
+
+Cluster  23 |    6 stars | Rep ID: 140315001701389
+  SIMBAD -> UCAC4 226-056161 | Type: *
+
+Cluster  24 |    3 stars | Rep ID: 140314005201140
+  SIMBAD -> NGC  5139  1627 | Type: Pe*
+
+Cluster  25 |    4 stars | Rep ID: 140305002701041
+  SIMBAD -> UCAC4 363-056838 | Type: *
+
+Cluster  26 |   12 stars | Rep ID: 140310002701378
+  SIMBAD -> UCAC4 235-016780 | Type: *
+
+Cluster  27 |    7 stars | Rep ID: 140313004401003
+  SIMBAD -> UCAC2  15512267 | Type: *
+
+Cluster  28 |    4 stars | Rep ID: 140208001701273
+  SIMBAD -> UCAC4 351-009098 | Type: *
+
+Cluster  29 |    7 stars | Rep ID: 140310003801345
+  SIMBAD -> UCAC4 218-061315 | Type: *
+
+Cluster  30 |   13 stars | Rep ID: 140310002701094
+  SIMBAD -> UCAC4 232-015482 | Type: **
+
+Cluster  31 |    5 stars | Rep ID: 140310003801313
+  SIMBAD -> UCAC4 220-058515 | Type: *
+
+Cluster  32 |    5 stars | Rep ID: 140310002101113
+  SIMBAD -> UCAC4 295-012475 | Type: *
+
+Cluster  33 |    4 stars | Rep ID: 140310002701238
+  SIMBAD -> UCAC4 234-016000 | Type: *
+
+Cluster  34 |    4 stars | Rep ID: 140117001501240
+  SIMBAD -> UCAC4 490-017762 | Type: *
+
+Cluster  35 |    4 stars | Rep ID: 140118002501017
+  SIMBAD -> CoRoT 102695698 | Type: *
+
+Cluster  36 |   16 stars | Rep ID: 140307002601230
+  SIMBAD -> Cl* NGC 5139   LEID   31025 | Type: *
+
+Cluster  37 |    6 stars | Rep ID: 140309002601331
+  SIMBAD -> UCAC4 450-041125 | Type: *
+
+Cluster  38 |    6 stars | Rep ID: 131217003301098
+  SIMBAD -> UCAC4 160-009491 | Type: *
+
+Cluster  39 |   11 stars | Rep ID: 140314005201004
+  SIMBAD -> Cl* NGC 5139   LEID   47456 | Type: Pe*
+
+Cluster  40 |    4 stars | Rep ID: 140304001801375
+  SIMBAD -> NGC  5139  5524 | Type: EB*
+
+Cluster  41 |    3 stars | Rep ID: 131217001801097
+  SIMBAD -> UCAC4 450-000330 | Type: *

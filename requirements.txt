@@ -1,0 +1,8 @@
+numpy
+scipy
+astropy
+astroquery
+scikit-learn
+openTSNE
+matplotlib
+tqdm
